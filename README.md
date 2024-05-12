@@ -1,5 +1,6 @@
 # Memo in PHP
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![phpmyadmin](https://img.shields.io/badge/PHPMyAdmin-grey?style=for-the-badge&logo=phpmyadmin)
 
 This project is a memory game with emojis created in PHP. Thanks to my teacher for the CSS.
 
