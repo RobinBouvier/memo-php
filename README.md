@@ -4,4 +4,9 @@
 
 This project is a memory game with emojis created in PHP. Thanks to my teacher for the CSS.
 
+>[!IMPORTANT]
+>Make sure to change line 14 of code.php to use your own phpMyAdmin database.
+>The base.sql file allows you to have the same emojis as me as images for the memory game.
+
+## Screenshot 
 ![Capture d’écran du 2024-05-12 14-33-52](https://github.com/RobinBouvier/memo-php/assets/102693118/9514f4aa-3322-471c-abdc-a13486ade5b4)
