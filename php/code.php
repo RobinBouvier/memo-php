@@ -11,7 +11,7 @@
     function charge_emo($taille){
         // Connexion à la base de données
         try{ 
-            $connexion = new PDO('mysql:dbname=memo_php; host:localhost;', "robin", "Blablacar10!");
+            $connexion = new PDO('mysql:dbname=yourdbname; host:localhost;', "yourusername", "yourpasswd");
         }
         catch(Exception $erreur){
             exit("Erreur : " . $erreur->getMessage());
